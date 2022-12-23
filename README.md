@@ -1,3 +1,0 @@
-- 👋 Hi, I’m @Anugya-com
-- 👀 I’m interested in learning and collaborating with people to get familiar with data analysis/data science use cases in a business context.
-- 📫 How to reach me - achowdhary1998@gmail.com
